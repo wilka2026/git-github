@@ -88,6 +88,7 @@ python setup.py sdist bdist_wheel
 Aquí es donde están todos los archivos de esta carpeta y donde la clase comenzará.
 
 Puedes verla [aquí](/Paquete/).
+Mi primera contribución local para GitHub. 
 
 
 
